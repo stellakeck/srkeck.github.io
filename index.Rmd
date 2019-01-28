@@ -1,7 +1,9 @@
----
-title: "Holy cow!"
----
 
-### I have a webpage!
 
-And I can put all kinds of stuff on it!
+<br>
+
+<center>
+### Stella Keck
+<br>
+<img src="Images/Hiking.jpg" style="width:50%">
+</center>
