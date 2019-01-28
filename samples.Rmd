@@ -9,7 +9,7 @@ This page shows examples of maps and tutorials I've created through my internshi
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-![](/Users/stellakeck/Documents/Skeck_Website/Re__Github_Stuff/Older_Adults_FINAL.png)
+![](/Users/stellakeck/Documents/Skeck_Website/Github/Older_Adults_FINAL.png)
 
 Sample Code for Map Above:
 ```{r}
@@ -41,9 +41,9 @@ Sample Code for Map Above:
         #text = element_text(color = "gray40", family = "NimbusSanCond")) 
 ```
 
-![](/Users/stellakeck/Documents/Skeck_Website/Re__Github_Stuff/Harlem_Assault_Hosp.png)
+![](/Users/stellakeck/Documents/Skeck_Website/Github/Harlem_Assault_Hosp.png)
 
-![](/Users/stellakeck/Documents/Skeck_Website/Github_Stuff/Lead Testing Map.png)
+![](/Users/stellakeck/Documents/Skeck_Website/Github/Lead Testing Map.png)
 
-![NYC Community Districts](/Users/stellakeck/Documents/Skeck_Website/Re__Github_Stuff/CD_Streets_new.png)
+![NYC Community Districts](/Users/stellakeck/Documents/Skeck_Website/Github/CD_Streets_new.png)
 

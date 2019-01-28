@@ -1,0 +1,20 @@
+name: "Stella Keck Website"
+output_dir: "."
+navbar:
+  title: "Stella Keck, MPH Candidate"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Map Samples"
+      href: samples.html
+    - text: "Writing Samples"
+      href: writing.html
+    - text: "LinkedIn"
+      href: https://www.linkedin.com/in/stella-keck-562ba849/
+    - icon: fa-envelope fa-lg
+      href: mailto:<srk2180@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/stellakeck/
+output:
+  html_document:
+    theme: yeti
