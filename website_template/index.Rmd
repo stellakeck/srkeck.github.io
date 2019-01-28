@@ -5,5 +5,5 @@
 <center>
 ### Stella Keck
 <br>
-![](Images/IMG_0843.jpg)
+<img src="Images/Hiking.jpg" style="width:50%">
 </center>
