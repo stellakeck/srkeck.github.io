@@ -1,0 +1,49 @@
+---
+title: "Map Samples"
+output: html_document
+---
+
+This page shows examples of maps and tutorials I've created through my internship at the NYC Department of Health and Mental Hygiene and my internship with the Earth Institute. 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/Users/stellakeck/Documents/Skeck_Website/Re__Github_Stuff/Older_Adults_FINAL.png)
+
+Sample Code for Map Above:
+```{r}
+#library(ggplot2)
+
+#plotnumber <- ggplot() +
+  #Plot merged datafile and fill based on Life Expectancy (broken up into 4 groups)#
+  #geom_polygon(data = nta_data,  aes(x = long, y = lat, group = group, fill = Number.nat.int_copy), color = "gray40", size = 0.2) + 
+  #geom_polygon(data = park_cem, aes(x = long, y = lat, group = group, fill = "open space"), color = "gray40", size = 0.2) +
+  #geom_text(data = borough.df, aes(label = Borough, x = Longitude, y = Latitude), size = 9, color = "black", angle = borough.df$ang) +
+  #Legend for fill of the map#
+  #scale_fill_manual(name = 'Total number of NYC residents\nwho are 65 years and older', 
+                    #values = c("[0,4888]"=rgb(237,248,233, max = 255), "(4888,9190]"=rgb(186,228,179, max = 255), "(9190,25375]"=rgb(116,196,118, max = 255), "park-cemetery|Airport"="gray"), 
+                    #na.value = "gray",
+                    #labels = c("< 4,888", "4,888 - 9,190", "> 9,190", "Non-residential")) + 
+  #Label plot with title (if you want the title to move onto the following line, use \n)#
+  #labs(title = "Number of Residents 65 Years and Older, 2012-2016", 
+       #caption = "Source: American Community Survey, 2012-2016", fill = NULL) + 
+  #Maintains 1:1 aspect ratio for map#
+  #coord_equal() + 
+  #Theme for map#
+  #theme_void() + 
+  #Positions the legend on the map#
+  #theme(legend.position = c(0.25,0.7), legend.title = element_text(size=16, face="bold", color = "gray40"),
+        #legend.text = element_text(size=14, color = "gray40"),
+        #plot.title = element_text(size = 24, face = "bold", hjust = 0.5, color = "gray40"),
+        #plot.caption = element_text(hjust = 0,0, color = "gray40", size = 12),
+        #legend.key.size = unit(2, 'lines'),
+        #text = element_text(color = "gray40", family = "NimbusSanCond")) 
+```
+
+![](/Users/stellakeck/Documents/Skeck_Website/Re__Github_Stuff/Harlem_Assault_Hosp.png)
+
+![](/Users/stellakeck/Documents/Skeck_Website/Github_Stuff/Lead Testing Map.png)
+
+![NYC Community Districts](/Users/stellakeck/Documents/Skeck_Website/Re__Github_Stuff/CD_Streets_new.png)
+
