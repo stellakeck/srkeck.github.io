@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
-Please see below for writing samples from my work with the Earth Institute and my courses at Columbia university. 
+Please see below for writing samples from my work with the Earth Institute and my courses at Columbia University. 
 
 <br>
 
