@@ -10,8 +10,7 @@ output:
 ![](/Users/stellakeck/Documents/Skeck_Website/Images/Maine.jpg)
 </center>
 
-
-### <u>About</u>
+<br>
 I am currently pursuing my MPH at Mailman School of Public Health at Columbia University in the Environmental Health Sciences department. My main interest is in adaptation and mitigation strategies to reduce the negative health impacts of climate change. Specifically, I'm interested in strategies to increase water quality and availability and reduce food insecurity domestically and internationally. I am very interested in geospatial effects of climate change and forced migration. I hope to continue working with GIS mapping and spatial data analysis within environmental topics. 
 
 Currently I am interning at the NYC Department of Health and Mental Hygiene where I work in the GIS Center fulfilling map requests and increasing my spatial analysis skills in R and ArcGIS. I am also the Departmental TA for the Environmental Health Sciences Department at Columbia University's Mailman School of Public Health where I mentor 18 first year MPH students and provide administrative assistance. During the Spring 2019 semester, I will be the teaching assistant for a graduate-level course in advanced mapping and spatial analysis using R and Python. 
