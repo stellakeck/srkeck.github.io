@@ -6,10 +6,12 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+<br>
 Please see below for writing samples from my work with the Earth Institute and my courses at Columbia university. 
 
-### Op-Ed Assignment:
+<br>
+
+### Op-Ed Assignment
 <b>Target Journal: Boston Globe</b>
 <br>
 <b>21 Nov. 2017</b>
@@ -30,6 +32,8 @@ What do we do? The Paris Climate Agreement, signed April 22, 2016, aims to keep 
 It is our responsibility to prevent further environmental destruction at home and abroad by changing our actions. We need laws regulating GHGs at both ends of product creation and consumption. We need to change American culture and normalize alternative fuels to become a pioneer in the fight against climate change. While the White House may not be listening, other leaders are. We need to rally behind our governors who created the bipartisan Climate Alliance, a coalition of states committed to reducing GHGs and fulfilling the goals of the Paris Agreement, and push for more states to join. We can be joining world leaders in the fight against climate change to preserve our beaches and the world’s health.
 
 -Stella Keck
+
+<br>
 
 ### Climate and Health Case Study: Agriculture in California 
 (personal section of a group paper)
