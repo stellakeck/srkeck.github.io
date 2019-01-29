@@ -1,5 +1,5 @@
 ---
-title: "Map Samples"
+title: "Work Samples"
 output: html_document
 ---
 
@@ -8,7 +8,19 @@ This page shows examples of maps and tutorials I've created through my internshi
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
+<h2> R Tutorials </h2>
+<br>
+[Census APIs Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/CensusAPIsTutorial.Rmd)
 
+[Choropleth Map Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/CensusPovertyPUMA_MapTutorial.Rmd)
+
+[Changing Fonts in R Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/Fonts%20in%20R.Rmd)
+
+[Spatial Join Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/Spatial%20Join%20Tutorial.Rmd)
+
+<br>
+<h2> Maps </h2>
 ![](/Users/stellakeck/Documents/Skeck_Website/Github/Older_Adults_FINAL.png)
 
 Sample Code for Map Above:
