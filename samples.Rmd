@@ -11,13 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 <h2> R Tutorials </h2>
 <br>
-[Census APIs Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/CensusAPIsTutorial.Rmd)
+[Census APIs Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/Markdown_Files/CensusAPIsTutorial.Rmd)
 
-[Choropleth Map Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/CensusPovertyPUMA_MapTutorial.Rmd)
+[Choropleth Map Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/Markdown_Files/CensusPovertyPUMA_MapTutorial.Rmd)
 
-[Changing Fonts in R Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/Fonts%20in%20R.Rmd)
+[Changing Fonts in R Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/Markdown_Files/Fonts%20in%20R.Rmd)
 
-[Spatial Join Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/Spatial%20Join%20Tutorial.Rmd)
+[Spatial Join Tutorial](https://github.com/stellakeck/srkeck.github.io/blob/master/Markdown_Files/Spatial%20Join%20Tutorial.Rmd)
 
 <br>
 <h2> Maps </h2>
