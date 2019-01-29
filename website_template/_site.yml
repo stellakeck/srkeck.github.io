@@ -17,4 +17,4 @@ navbar:
       href: http://github.com/stellakeck/
 output:
   html_document:
-    theme: architect
+    theme: lumen
