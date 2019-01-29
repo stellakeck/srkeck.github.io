@@ -67,7 +67,7 @@ projection(cb.LISP)
 head(NTA.shp.LISP@data)
 
 #create new column in points dataset for NTA ID and join#
-cb.LISP$NTA_ID <- over(cb.LISP, NTA.shp.LISP[,"NTA_2010"])
+cb.LISP[["NTA_ID"]] <- over(cb.LISP, NTA.shp.LISP[,"NTA_2010"], fn = NULL)[["NTA_2010"]]
 
 head(cb.LISP)
 ```
